@@ -1,1 +1,1 @@
-# zomato_sql_project
+# zomato SQL Project
